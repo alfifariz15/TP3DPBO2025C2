@@ -52,8 +52,9 @@ Polymorphism (Memungkinkan variasi class dengan metode serupa).
 - Menambahkan komponen-komponen ke objek Komputer.
 - Memanggil displaySpecs() untuk mencetak hasilnya.
 
-- Alur code dalam python
-kurang lebih sama kayak cpp
+
+
+- Alur code dalam python kurang lebih sama kayak cpp
 1. Class Komponen
 - Sama seperti C++, menyimpan merk dan nama.
 2. Class CPU, RAM, Harddrive
