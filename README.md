@@ -18,10 +18,10 @@ Penjelasan Diagram
 Program ini bertujuan untuk membangun sistem representasi komponen komputer menggunakan OOP (Object-Oriented Programming).
 
 Fitur Utama:
-Encapsulation (Menggunakan private/protected variabel dan getter/setter).
-Inheritance (Pewarisan dari Komponen ke CPU, RAM, Harddrive, Gpu, Motherboard).
-Composition (Objek Komputer memiliki RAM dan Harddrive dalam bentuk list).
-Polymorphism (Memungkinkan variasi class dengan metode serupa).
+- Encapsulation (Menggunakan private/protected variabel dan getter/setter).
+- Inheritance (Pewarisan dari Komponen ke CPU, RAM, Harddrive, Gpu, Motherboard).
+- Composition (Objek Komputer memiliki RAM dan Harddrive dalam bentuk list).
+- Polymorphism (Memungkinkan variasi class dengan metode serupa).
 
 # Penjelasan alur code python dan cpp
 # Alur Kode dalam C++
