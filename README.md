@@ -24,7 +24,7 @@ Composition (Objek Komputer memiliki RAM dan Harddrive dalam bentuk list).
 Polymorphism (Memungkinkan variasi class dengan metode serupa).
 
 # Penjelasan alur code python dan cpp
-- Alur Kode dalam C++
+# Alur Kode dalam C++
 1. Class Komponen
 - Sebagai Base Class (Induk) dari semua komponen dalam komputer.
 - Menyimpan atribut dasar: string merk; dan string nama;
@@ -52,9 +52,8 @@ Polymorphism (Memungkinkan variasi class dengan metode serupa).
 - Menambahkan komponen-komponen ke objek Komputer.
 - Memanggil displaySpecs() untuk mencetak hasilnya.
 
-
-
-- Alur code dalam python kurang lebih sama kayak cpp
+# Alur code dalam python 
+kurang lebih sama kayak cpp
 1. Class Komponen
 - Sama seperti C++, menyimpan merk dan nama.
 2. Class CPU, RAM, Harddrive
